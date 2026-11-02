@@ -1,0 +1,27 @@
+roll_no,course_code,course_name,credits,internal_marks,external_marks,total_marks,grade,grade_point,semester
+STU2024001,CS601,Distributed Systems,4,28,64,92,O,10.0,6
+STU2024001,CS602,Compiler Design,4,26,58,84,A+,9.0,6
+STU2024001,CS603,Computer Networks,3,27,61,88,A+,9.0,6
+STU2024001,CS604,Cloud Computing Lab,2,48,46,94,O,10.0,6
+STU2024002,CS601,Distributed Systems,4,29,66,95,O,10.0,6
+STU2024002,CS602,Compiler Design,4,28,63,91,O,10.0,6
+STU2024002,CS603,Computer Networks,3,29,65,94,O,10.0,6
+STU2024002,CS604,Cloud Computing Lab,2,49,49,98,O,10.0,6
+STU2024003,EE801,Power Systems Protection,4,24,52,76,A,8.0,8
+STU2024003,EE802,Smart Grid Technologies,4,25,56,81,A+,9.0,8
+STU2024003,EE803,Renewable Energy Systems,3,23,51,74,A,8.0,8
+STU2024004,IT401,Data Structures & Algorithms,4,22,46,68,B+,7.0,4
+STU2024004,IT402,Database Management Systems,4,25,55,80,A+,9.0,4
+STU2024004,IT403,Web Technologies,3,26,59,85,A+,9.0,4
+STU2024005,ME601,Heat & Mass Transfer,4,25,58,83,A+,9.0,6
+STU2024005,ME602,Design of Machine Elements,4,24,53,77,A,8.0,6
+STU2024005,ME603,Automobile Engineering,3,22,49,71,A,8.0,6
+STU2024006,CE401,Structural Analysis,4,26,57,83,A+,9.0,4
+STU2024006,CE402,Fluid Mechanics,4,23,50,73,A,8.0,4
+STU2024006,CE403,Surveying & Geomatics,3,24,52,76,A,8.0,4
+STU2024007,CS801,Machine Learning & AI,4,28,62,90,O,10.0,8
+STU2024007,CS802,Information Security,4,27,59,86,A+,9.0,8
+STU2024007,CS803,Major Project Work,6,48,47,95,O,10.0,8
+STU2024010,IT401,Data Structures & Algorithms,4,28,61,89,A+,9.0,4
+STU2024010,IT402,Database Management Systems,4,29,63,92,O,10.0,4
+STU2024010,IT403,Web Technologies,3,27,61,88,A+,9.0,4

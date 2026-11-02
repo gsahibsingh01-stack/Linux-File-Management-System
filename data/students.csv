@@ -1,0 +1,11 @@
+roll_no,full_name,email,phone,dob,gender,blood_group,department,semester,enrollment_date,status
+STU2024001,Alexander Hayes,alex.hayes@university.edu,+1-555-0101,2003-04-12,M,O+,Computer Science,6,2024-08-15,ACTIVE
+STU2024002,Sophia Lin,sophia.lin@university.edu,+1-555-0102,2003-09-22,F,A+,Computer Science,6,2024-08-15,ACTIVE
+STU2024003,Marcus Vance,marcus.v@university.edu,+1-555-0103,2002-11-05,M,B+,Electrical Engineering,8,2023-08-20,ACTIVE
+STU2024004,Elena Rostova,elena.r@university.edu,+1-555-0104,2004-01-30,F,AB-,Information Technology,4,2025-08-18,ACTIVE
+STU2024005,Devon Patel,devon.patel@university.edu,+1-555-0105,2003-07-19,M,O-,Mechanical Engineering,6,2024-08-15,ACTIVE
+STU2024006,Chloe Bennett,chloe.b@university.edu,+1-555-0106,2004-05-14,F,B-,Civil Engineering,4,2025-08-18,ACTIVE
+STU2024007,Liam O'Connor,liam.oc@university.edu,+1-555-0107,2002-03-28,M,A-,Computer Science,8,2023-08-20,ACTIVE
+STU2024008,Zoe Washington,zoe.w@university.edu,+1-555-0108,2003-12-08,F,O+,Electrical Engineering,6,2024-08-15,ON LEAVE
+STU2024009,Rohan Sharma,rohan.s@university.edu,+1-555-0109,2001-08-11,M,B+,Mechanical Engineering,8,2022-08-22,GRADUATED
+STU2024010,Aaliyah Khan,aaliyah.k@university.edu,+1-555-0110,2004-10-02,F,A+,Information Technology,4,2025-08-18,ACTIVE
